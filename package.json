@@ -1,6 +1,6 @@
 {
   "name": "@printy/react-persist-state",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Persist state through page refreshes in React",
   "main": "dist/index.js",
   "author": "Printy Studios",
